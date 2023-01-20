@@ -1,0 +1,14 @@
+{
+  "debug": true,
+  "commandPrefix": "!",
+  "guildId": "1064569325375205467",
+  "botToken": "MTA2NTczMzA0NjUzNzU1NTk2OA.Gpr7gi.SpRyRunBEhIrbYw1JC88ArcYsbTTLIqM-eKjOo",
+  "botAuditChannel": "「👻」bot-komutları",
+  "killFeedsChannel": "1064986120066183218",
+  "chatFeedsChannel": "1064986120066183218",
+  "raffleChannel": "1064986120066183218",
+  "databaseHost": "0.0.0.0/0",
+  "databaseUsername": "DrElwiss",
+  "databasePassword": "142536",
+  "databaseName": "scumbot_development"
+}
