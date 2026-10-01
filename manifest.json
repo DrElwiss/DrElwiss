@@ -1,0 +1,26 @@
+{
+  "id": "community.streambox.metadata.demo",
+  "version": "1.0.0",
+  "name": "StreamBox Metadata Demo",
+  "description": "Metadata-only demo catalog for authorized/open content.",
+  "resources": [
+    "catalog",
+    "meta"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "open-movies",
+      "name": "Open Movies"
+    },
+    {
+      "type": "series",
+      "id": "open-series",
+      "name": "Open Series"
+    }
+  ]
+}
